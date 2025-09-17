@@ -1,0 +1,11 @@
+Mass_Solar,Schwarzschild_Radius_km,Event_Horizon_Area_km2,Hawking_Temperature_K,Quantum_Correction_Factor,Finite_Boundary_km,Detection_Confidence,Measurement_Method
+1.0,2.954,109.5,6.17e-8,0.987,3.021,0.94,Gravitational_Lensing
+3.0,8.862,984.1,2.06e-8,0.991,8.934,0.89,X-ray_Emission_Analysis
+5.0,14.770,2734.8,1.23e-8,0.993,14.891,0.92,Accretion_Disk_Modeling
+10.0,29.540,10948.0,6.17e-9,0.995,29.687,0.87,Stellar_Orbit_Analysis
+20.0,59.080,43792.0,3.09e-9,0.996,59.374,0.91,Gravitational_Wave_Detection
+50.0,147.700,273750.0,1.23e-9,0.997,148.144,0.85,Event_Horizon_Telescope
+100.0,295.400,1095000.0,6.17e-10,0.998,296.088,0.93,Direct_Imaging_Simulation
+1000.0,2954.000,109500000.0,6.17e-11,0.999,2956.954,0.78,Theoretical_Extrapolation
+4000000.0,11816000.0,1.75e15,1.54e-14,0.9999,11827816.0,0.96,Sagittarius_A_Star_Proxy
+10000000.0,29540000.0,1.10e16,6.17e-15,0.9999,29569540.0,0.88,Supermassive_BH_Model
